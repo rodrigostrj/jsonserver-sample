@@ -32,11 +32,11 @@ COMAND: npm install json-server -g
   }
 
 
-4 - Running the server:
+3 - Running the server:
 
 COMAND:  json-server .\db.json
 
-5 The following HTTP endpoints are created automatically by JSON server:
+4 The following HTTP endpoints are created automatically by JSON server:
 
 GET    /offices
 GET    /offices/{id}
