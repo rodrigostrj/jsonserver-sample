@@ -1,0 +1,22 @@
+{
+    "offices": [
+      {
+        "id": 1,
+        "office_name": "xpto 123",
+        "office_code": "xpto123",
+        "email": "xpto123@xpto 123.com"
+      },
+      {
+        "id": 2,
+        "office_name": "xpto 1234",
+        "office_code": "xpto1234",
+        "email": "xpto1234@xpto1234.com"
+      },
+      {
+        "id": 3,
+        "office_name": "xpto 12345",
+        "office_code": "xpto12345",
+        "email": "xpto12345@xpto12345.com"
+      }
+    ]
+  }

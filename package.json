@@ -1,0 +1,16 @@
+{
+  "name": "jsonserversample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "employees.js",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "jsonserver": "^0.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
