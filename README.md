@@ -3,7 +3,7 @@
 
 https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d
 
-1- Run it on terminal. Instaling jason-server globaly:
+1- Run it on terminal. Instaling json-server globaly:
 COMAND: npm install json-server -g
 
 2- create a file called db.json:
